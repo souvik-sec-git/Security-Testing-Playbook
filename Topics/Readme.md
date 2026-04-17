@@ -1,5 +1,8 @@
 # Security-Testing-Playbook
 
+
+<!--
+
 ### Important in security:
  - Preventing lateral movement 
 
@@ -36,4 +39,7 @@
                 
         Well-known ports (0–1023)
         Registered ports (1024–49151)
+
+
+-->
     
