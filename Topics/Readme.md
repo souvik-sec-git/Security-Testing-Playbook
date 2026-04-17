@@ -1,5 +1,48 @@
 # Security-Testing-Playbook
 
+ML Algorithms are the mathematical methods used to learn patterns from data.  
+ML Models are the trained outputs derived from these algorithms.
+
+#### 3 key components:
+
+   ###### a. Decision process:  
+             which makes predictions or classifications based on input data.  
+   ###### b. Error function:  
+             which evaluates performance and provides feedback.  
+   ###### c. Model optimisation process:  
+             which fine-tunes the algorithm to minimise errors and improve accuracy.  
+
+This iterative process continues until the model reaches a satisfactory performance level.  
+
+#### 4 Categories of ML algorithms:  
+
+   ###### a. Supervised learning: 
+             relies on labeled data to train models for classification or regression tasks.  
+             Ex: such as predicting house prices or identifying spam emails.  
+
+  ###### b. Unsupervised learning: 
+            works with unlabeled data to discover hidden patterns, often using clustering, association, or dimensionality reduction techniques.  
+   
+  ###### c. Semi-supervised learning:  
+            combines elements of both, using a small portion of labeled data to guide the learning process.  
+   
+   ###### d. Reinforcement learning :  
+             mimics human learning by rewarding correct decisions and penalizing mistakes, allowing an agent to refine its actions over time to achieve                                   the best outcome. 
+
+
+#### AI (behave like humans) :  
+
+  ###### Artificial Neural Network
+           [(neurons: cells responsible for communicating between body and brain).  
+           This communication is done by synapses(Electrical/chemical signals)].  
+ 
+  ###### Deep Learning(DL):  
+
+          Where there is 3 layer. Doesn’ require labelling/human interaction. Thus its scalable ML as it is self-learning.
+          Input Layer [Raw Data, with nodes depending on data type, 4x4 image = 16 nodes (each node represents neuron & connection between them acts as synapses)] → Hidden            Layer(Process and refine the input, bringing the network closer to a prediction) → Output Layer(Final Prediction)
+
+
+
 
 <!--
 
@@ -42,4 +85,7 @@
 
 
 -->
+
+ 
+
     
